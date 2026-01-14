@@ -1,0 +1,32 @@
+[
+    {
+        "id": "G1",
+        "password": "123",
+        "nome": "Gon\u00e7alo"
+    },
+    {
+        "id": "G2",
+        "password": "456",
+        "nome": "Diogo"
+    },
+    {
+        "id": "G3",
+        "password": "789",
+        "nome": "Filipe"
+    },
+    {
+        "id": "G9",
+        "password": "456789",
+        "nome": "Mateus"
+    },
+    {
+        "id": "G4",
+        "password": "0123",
+        "nome": "Vasco"
+    },
+    {
+        "id": "G25",
+        "password": "6767",
+        "nome": "Matilde"
+    }
+]
