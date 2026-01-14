@@ -1,4 +1,4 @@
-# Hospital Manager – Simulador Estocástico de Fluxo Clínico
+# Clínica Médica – Simulador Estocástico de Fluxo Clínico
 
 **Contexto:** Projeto de Simulação Computacional & Engenharia de Software
 
@@ -74,4 +74,5 @@ Para a execução do ambiente de simulação, são necessárias as seguintes dep
 Execute o seguinte comando no terminal para instalar as dependências necessárias:
 
 ```bash
+
 pip install FreeSimpleGUI matplotlib
